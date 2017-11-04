@@ -1,0 +1,44 @@
+*{
+  border: 1px solid fuchsia;
+}
+
+
+/* Fonts and colors only */
+body{
+  background: rgb(245,245,245);
+  color: #76818E;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  font-style: italic;
+  font-weight: lighter;
+  margin: 0;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: #4F646F;
+  font-weight: bold;
+  font-size: 40px;
+  font-style: normal;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: pink;
+  font-weight: lighter;
+  font-size: 25px;
+  font-style: normal;
+}
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #D4F5F7;
+  /*font-weight: bold;*/
+  font-style: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+a:hover {
+  color: pink;
+}
+
+
+/* Custom design */
+
